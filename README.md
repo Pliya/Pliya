@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Aurel PLIYA
 
-<!--
-**Pliya/Pliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with a passion for data.
 
-Here are some ideas to get you started:
+## About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I build software and explore the world of data
+- Always learning new technologies
+- Particularly interested in data analysis and machine learning
+- Curious and driven by challenging technical projects
+
+## Get in Touch
+
+Feel free to reach out via GitHub!
+
+---
+Thanks for visiting my profile!
